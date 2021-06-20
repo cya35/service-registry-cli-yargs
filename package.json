@@ -1,0 +1,22 @@
+{
+    "name": "nodejs-cli-app",
+    "version": "1.0.0",
+    "description": "A basic command line based application using NodeJS and Yargs to perform CRUD functionality",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "nodejs",
+        "node",
+        "yargs",
+        "cli"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "chalk": "^4.1.1",
+        "yargs": "^17.0.1"
+    }
+}
